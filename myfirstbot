@@ -1,0 +1,7 @@
+echo "# dubravin31" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/dubravin31/dubravin31.git
+ git push - ты происхождение главная
