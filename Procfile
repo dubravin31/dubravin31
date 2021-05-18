@@ -1,0 +1,1 @@
+worker: python парсер_новостей.ipynb
